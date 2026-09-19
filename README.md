@@ -53,16 +53,6 @@
 - Работаю с виртуализацией **vCenter / ESXi**
 - Разрабатываю backend-сервисы на Python (FastAPI) и Java (Spring)
 
-### 🌟 Хочу развиваться дальше
-
-Сейчас активно изучаю:
-- Advanced Kubernetes (Operators, Custom Resources)
-- Terraform / Infrastructure as Code
-- Cloud (AWS / GCP / Azure)
-- Observability и tracing (OpenTelemetry)
-
----
-
 ### 📈 GitHub Stats
 
 <div align="center">
