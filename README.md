@@ -2,10 +2,10 @@
 
   <h1>Привет! 👋 Я Рома Пригодич</h1>
 
-  <h3>DevOps Engineer | Backend Developer | 20 лет</h3>
+  <h3>DevOps Engineer | Backend Developer | 21 год</h3>
 
   <p>
-    <strong>Работаю в <a href="https://balinasoft.com" target="_blank">Balinasoft</a> с 2025 года</strong>
+    <strong>Работаю в ИРЦ БЖД</strong>
   </p>
 
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,gitlab,github,python,fastapi,java,spring,mysql,postgres,git,linux,nginx,grafana,prometheus,argo" alt="Skills" width="80%" />
@@ -16,10 +16,10 @@
 
 ### 🚀 Обо мне
 
-Привет! Меня зовут **Рома Пригодич**, мне 20 лет.  
-Я — **DevOps Engineer** с практическим опытом в построении и поддержке современных CI/CD-пайплайнов, оркестрации контейнеров и мониторинга инфраструктуры.
+Привет! Меня зовут **Рома Пригодич**, мне **21 год** (31.07.2005).  
+Я — **DevOps Engineer** с практическим опытом в построении и поддержке CI/CD-пайплайнов, оркестрации контейнеров, виртуализации и мониторинга инфраструктуры.
 
-С 2025 года работаю в компании **Balinasoft**, где занимаюсь автоматизацией процессов разработки и деплоя, а также backend-разработкой.
+Работаю в **ИРЦ БЖД**, где занимаюсь автоматизацией, инфраструктурой и backend-разработкой.
 
 ### 🛠️ Мои основные навыки
 
@@ -29,6 +29,8 @@
 - **GitLab CI/CD** — автоматизация пайплайнов
 - **ArgoCD** — GitOps-деплоймент
 - **Grafana Stack** (Grafana + Prometheus + Loki + Tempo) — мониторинг и observability
+- **NetBird** — VPN-доступы, группы и политики доступа
+- **VMware vCenter / ESXi** — виртуализация
 - Linux, Nginx, Bash, Helm
 
 **Backend-разработка:**
@@ -42,6 +44,8 @@
 - Разворачиваю и масштабирую приложения в Kubernetes
 - Внедряю GitOps-подход с помощью ArgoCD
 - Настраиваю мониторинг и алертинг через Grafana Stack
+- Настраиваю и сопровождаю **NetBird VPN** (доступы, группы)
+- Работаю с виртуализацией **vCenter / ESXi**
 - Разрабатываю backend-сервисы на Python (FastAPI) и Java (Spring)
 
 ### 🌟 Хочу развиваться дальше
@@ -54,13 +58,24 @@
 
 ---
 
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Glistand&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glistand&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Glistand&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
 <div align="center">
 
 ### 💡 Связаться со мной
 
-[![Telegram](https://img.shields.io/badge/Telegram-%2300A8E6.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_ник) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/твой_ник)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:твой@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pryhodzichr@gmail.com)
 
 </div>
 
